@@ -1,6 +1,6 @@
-const { api } = require('./api')
+const { calendar } = require('./calendar')
 const { dev } = require('./dev')
 
-exports.api = api
+exports.calendar = calendar
 
 exports.dev = dev

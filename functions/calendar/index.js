@@ -10,4 +10,4 @@ const { getAvailability } = require('./availability')
 
 app.get('/availability', auth, getAvailability)
 
-exports.api = functions.https.onRequest(app)
+exports.calendar = functions.https.onRequest(app)
