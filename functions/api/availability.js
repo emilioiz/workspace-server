@@ -15,13 +15,15 @@ const auth = {
 //required: q1
 //optional: q2, q3
 //q1 = date, q2 = appointmentTypeID ,q3 = calendarID
-//if not optional, return all lawyers aviability
-//Test - http://localhost:5001/workspace-247959/us-central1/api/availability?date=2021-01-01&appointmentTypeID=18628316&calendarID=4783565
+//if no optional params, returns all active lawyers aviability
+//Example - http://localhost:5001/workspace-247959/us-central1/api/availability?date=2021-01-01&appointmentTypeID=18628316&calendarID=4783565
 exports.getAvailability = async (req, res) => {
   const q1 = req.query.date
   const q2 = parseInt(req.query.appointmentTypeID) || false
   const q3 = req.query.calendarID || false
   const reqParams = []
+
+  let reqType = 'one'
 
   if (q2 && q3) {
     reqParams.push({
@@ -31,6 +33,7 @@ exports.getAvailability = async (req, res) => {
       searchQuery: `date=${q1}&appointmentTypeID=${q2}&calendarID=${q3}`
     })
   } else {
+    reqType = 'all'
     const lawyerRef = db.collection('lawyers').where('isActive', '==', true)
 
     await lawyerRef
@@ -79,7 +82,6 @@ exports.getAvailability = async (req, res) => {
           description: obj.description
         }
         return resObj
-        // return null
       })
       .catch(err => console.log(err.message))
   }
@@ -108,30 +110,45 @@ exports.getAvailability = async (req, res) => {
       const times = await getAvailabilityTimes(r)
       const timesType = await getAppointmentTypes(r)
 
-      const allTimeBlocks = []
-      await times.map(x => allTimeBlocks.push(x.timeBlock))
+      if (reqType === 'all') {
+        const allTimeBlocks = []
+        await times.map(x => allTimeBlocks.push(x.timeBlock))
 
-      const uniqueTimeBlocks = [...new Set(allTimeBlocks)]
+        const uniqueTimeBlocks = [...new Set(allTimeBlocks)]
 
-      const collapsedTimes = uniqueTimeBlocks.map(x => {
-        const res = { timeBlock: x, times: [] }
-        const partData = times.filter(y => y.timeBlock === x)
-        partData.map(y => res.times.push(y.time))
-        return res
-      })
+        const collapsedTimes = uniqueTimeBlocks.map(x => {
+          const res = { timeBlock: x, times: [] }
+          const partData = times.filter(y => y.timeBlock === x)
+          partData.map(y => res.times.push(y.time))
+          return res
+        })
 
-      return collapsedTimes.map(x => {
-        return { calendarID: r.calendarID, ...timesType, ...x }
-      })
+        return collapsedTimes.map(x => {
+          return { calendarID: r.calendarID, ...timesType, ...x }
+        })
+      } else {
+        const timesParsed = times.map(r => r.time)
+        return {
+          date: r.date,
+          calendarID: r.calendarID,
+          ...timesType,
+          times: timesParsed
+        }
+      }
     })
   ).catch(err => console.log(err.message))
 
-  const collapsedAcuityData = await collapseAcuityData(acuityData)
+  if (reqType === 'all') {
+    const collapsedAcuityData = await collapseAcuityData(acuityData)
 
-  const response = {
-    date: q1,
-    dateValues: collapsedAcuityData
+    const response = {
+      date: q1,
+      dateValues: collapsedAcuityData
+    }
+
+    return res.json(response)
+  } else {
+    const response = await acuityData
+    return res.json(...response)
   }
-
-  return res.json(response)
 }
