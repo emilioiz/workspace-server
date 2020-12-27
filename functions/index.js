@@ -1,38 +1,6 @@
-const { functions } = require('./util/firebase')
-const auth = require('./util/auth')
-const app = require('express')()
-const cors = require('cors')({ origin: true })
-require('dotenv').config()
+const { api } = require('./api')
+const { dev } = require('./dev')
 
-app.use(cors)
+exports.api = api
 
-const { getAvailability } = require('./api/availability')
-
-app.get('/availability', auth, getAvailability)
-
-exports.api = functions.https.onRequest(app)
-
-exports.signIn = functions.https.onRequest((req, res) => {
-  const firebase = require('firebase')
-
-  const firebaseConfig = {
-    apiKey: 'AIzaSyDKCFtrFDH6jXLiWqj8kVZnZysM9l1LyB4',
-    authDomain: 'workspace-247959.firebaseapp.com',
-    projectId: 'workspace-247959',
-    storageBucket: 'workspace-247959.appspot.com',
-    messagingSenderId: '132078026079',
-    appId: '1:132078026079:web:0e518653f2b312f1d64aea',
-    measurementId: 'G-GX2226CW29'
-  }
-
-  firebase.initializeApp(firebaseConfig)
-
-  firebase.auth().useEmulator('http://localhost:9099/')
-
-  firebase
-    .auth()
-    .signInAnonymously()
-    .then(data => data.user.getIdToken())
-    .then(token => res.json({ token }))
-    .catch(err => console.log(err.message))
-})
+exports.dev = dev

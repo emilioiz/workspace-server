@@ -1,0 +1,618 @@
+[
+  {
+    "metadata": [
+      { "value": "Divorce, Family Law", "id": 1, "name": "Practice Area" },
+      { "name": "Year Admitted", "id": 2, "value": "2005" },
+      { "value": "Pennsylvania, New York", "name": "Jurisdication", "id": 3 },
+      { "name": "Bar Status", "value": "Active", "id": 4 },
+      { "name": "Attorney ID", "id": 5, "value": "09123801" },
+      { "id": 6, "name": "Disciplinary Record", "value": "None" },
+      { "name": "Law School", "id": 7, "value": "Villanova University" },
+      {
+        "id": 8,
+        "value": "University of Pennsylvania",
+        "name": "Undergraduate"
+      },
+      {
+        "value": "Professional Liability",
+        "name": "Insurance Coverage",
+        "id": 9
+      }
+    ],
+    "long": -75.160945,
+    "appointmentId": "18628316",
+    "email": "info@daasly.com",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-95eb7e59-9789-4681-b558-6e0f59868e8c.png?alt=media&token=1015ac3f-c440-4d2d-b200-dc67177338c1",
+    "isActive": true,
+    "calendarId": "4854648",
+    "disclaimerLink": "https://daasly.com/",
+    "countiesServed": "Philadelphia, Montgomery",
+    "status": [
+      { "id": 1, "name": "Accepting New Clients" },
+      { "id": 2, "name": "Remote Meetings" }
+    ],
+    "id": "95eb7e59-9789-4681-b558-6e0f59868e8c",
+    "createdAt": "2020-12-16T21:05:48.248Z",
+    "name": "Arnold Eages",
+    "practiceId": [1],
+    "address": "317 S 12 Street, #2f Philadelphia, PA 19107",
+    "firmName": "Eages & Associates",
+    "areaId": [1],
+    "description": [
+      {
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>",
+        "name": "Lawyer Profile"
+      },
+      {
+        "name": "Additional Information",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      }
+    ],
+    "phone": "215-337-1442",
+    "disclaimerDate": "12/16/2020",
+    "lat": 39.946007,
+    "uName": "arnoldeages",
+    "rank": 0,
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu."
+  },
+  {
+    "email": "info@daasly.com",
+    "appointmentId": "18628316",
+    "name": "Timothy Davis",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-df761fd5-a588-4dee-ae6e-6d78be81d98a.png?alt=media&token=a5caf002-1872-4159-9a63-45a169051d94",
+    "disclaimerLink": "https://daasly.com/",
+    "address": "3098 Ruth St, Philadelphis, PA 19134",
+    "calendarId": "4854413",
+    "rank": 0,
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
+    "practiceId": [1],
+    "disclaimerDate": "12/16/2020",
+    "metadata": [
+      { "value": "Divorce, Family Law", "id": 1, "name": "Practice Area" },
+      { "id": 2, "name": "Year Admitted", "value": "2005" },
+      { "name": "Jurisdication", "id": 3, "value": "Pennsylvania, New York" },
+      { "id": 4, "name": "Bar Status", "value": "Active" },
+      { "id": 5, "name": "Attorney ID", "value": "09123801" },
+      { "id": 6, "name": "Disciplinary Record", "value": "None" },
+      { "id": 7, "name": "Law School", "value": "Villanova University" },
+      {
+        "name": "Undergraduate",
+        "id": 8,
+        "value": "University of Pennsylvania"
+      },
+      {
+        "id": 9,
+        "value": "Professional Liability",
+        "name": "Insurance Coverage"
+      }
+    ],
+    "long": -75.165426,
+    "createdAt": "2020-12-16T20:09:40.806Z",
+    "description": [
+      {
+        "name": "Lawyer Profile",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      },
+      {
+        "name": "Additional Information",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      }
+    ],
+    "areaId": [1],
+    "lat": 39.949912,
+    "firmName": "Davis & Reynolds, LLC",
+    "countiesServed": "Delaware",
+    "id": "df761fd5-a588-4dee-ae6e-6d78be81d98a",
+    "phone": "800-215-4378",
+    "uName": "timothydavis",
+    "isActive": true,
+    "status": [
+      { "id": 1, "name": "Accepting New Clients" },
+      { "id": 2, "name": "Remote Meetings" }
+    ]
+  },
+  {
+    "isActive": true,
+    "id": "cb3e3e91-b5c0-4afb-bfca-e4fc059f609a",
+    "description": [
+      {
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>",
+        "name": "Lawyer Profile"
+      },
+      {
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>",
+        "name": "Additional Information"
+      }
+    ],
+    "long": -75.155008,
+    "appointmentId": "18920752",
+    "uName": "andrewparson",
+    "calendarId": "4854632",
+    "practiceId": [1],
+    "status": [
+      { "name": "Accepting New Clients", "id": 1 },
+      { "id": 2, "name": "Remote Meetings" }
+    ],
+    "rank": 0,
+    "phone": "866-414-1111",
+    "disclaimerLink": "https://daasly.com/",
+    "email": "info@daasly.com",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-cb3e3e91-b5c0-4afb-bfca-e4fc059f609a.png?alt=media&token=751bc1d8-5f0a-45b0-a820-111c5477d216",
+    "disclaimerDate": "12/16/2020",
+    "address": "11315 Walnut Street, 8th Floor Philadelphia, PA 19107",
+    "name": "Andrew Parson",
+    "countiesServed": "Montgomery",
+    "areaId": [1],
+    "lat": 39.947046,
+    "metadata": [
+      { "name": "Practice Area", "id": 1, "value": "Divorce, Family Law" },
+      { "value": "2005", "name": "Year Admitted", "id": 2 },
+      { "id": 3, "value": "Pennsylvania, New York", "name": "Jurisdication" },
+      { "id": 4, "name": "Bar Status", "value": "Active" },
+      { "value": "09123801", "name": "Attorney ID", "id": 5 },
+      { "name": "Disciplinary Record", "id": 6, "value": "None" },
+      { "id": 7, "name": "Law School", "value": "Villanova University" },
+      {
+        "id": 8,
+        "value": "University of Pennsylvania",
+        "name": "Undergraduate"
+      },
+      {
+        "value": "Professional Liability",
+        "name": "Insurance Coverage",
+        "id": 9
+      }
+    ],
+    "createdAt": "2020-12-16T21:01:02.023Z",
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
+    "firmName": "Divorce Family Law"
+  },
+  {
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
+    "address": "3098 Ruth St, Philadelphis, PA 19134",
+    "lat": 39.99452,
+    "disclaimerLink": "https://daasly.com/",
+    "metadata": [
+      { "id": 1, "name": "Practice Area", "value": "Divorce, Family Law" },
+      { "value": "2005", "name": "Year Admitted", "id": 2 },
+      { "id": 3, "name": "Jurisdication", "value": "Pennsylvania, New York" },
+      { "name": "Bar Status", "value": "Active", "id": 4 },
+      { "value": "09123801", "id": 5, "name": "Attorney ID" },
+      { "value": "None", "name": "Disciplinary Record", "id": 6 },
+      { "value": "Villanova University", "id": 7, "name": "Law School" },
+      {
+        "id": 8,
+        "value": "University of Pennsylvania",
+        "name": "Undergraduate"
+      },
+      {
+        "value": "Professional Liability",
+        "id": 9,
+        "name": "Insurance Coverage"
+      }
+    ],
+    "long": -75.115895,
+    "firmName": "The Rothenberg Law Firm LLP",
+    "createdAt": "2020-12-16T20:03:05.632Z",
+    "phone": "215-987-3451",
+    "countiesServed": "Philadelphia, Montgomery",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-68c5f865-14f1-4bde-abf9-448af71b74a4..png?alt=media&token=eb8fe0d3-0113-4687-b8a8-9b276115ee61",
+    "isActive": true,
+    "email": "info@daasly.com",
+    "status": [
+      { "id": 1, "name": "Accepting New Clients" },
+      { "name": "Remote Meetings", "id": 2 }
+    ],
+    "name": "Sebastian Rothenberg",
+    "practiceId": [1],
+    "calendarId": "4854373",
+    "appointmentId": "18628316",
+    "rank": 0,
+    "id": "68c5f865-14f1-4bde-abf9-448af71b74a4",
+    "description": [
+      {
+        "name": "Lawyer Profile",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      },
+      {
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>",
+        "name": "Additional Information"
+      }
+    ],
+    "disclaimerDate": "12/16/2020",
+    "areaId": [1],
+    "uName": "sebastianrothenberg"
+  },
+  {
+    "lat": 39.949682,
+    "appointmentId": "18920752",
+    "metadata": [
+      { "value": "Divorce, Family Law", "id": 1, "name": "Practice Area" },
+      { "value": "2005", "id": 2, "name": "Year Admitted" },
+      { "name": "Jurisdication", "value": "Pennsylvania, New York", "id": 3 },
+      { "value": "Active", "id": 4, "name": "Bar Status" },
+      { "value": "09123801", "id": 5, "name": "Attorney ID" },
+      { "name": "Disciplinary Record", "id": 6, "value": "None" },
+      { "id": 7, "value": "Villanova University", "name": "Law School" },
+      {
+        "value": "University of Pennsylvania",
+        "id": 8,
+        "name": "Undergraduate"
+      },
+      {
+        "value": "Professional Liability",
+        "name": "Insurance Coverage",
+        "id": 9
+      }
+    ],
+    "rank": 0,
+    "id": "0f0d3937-8e74-4f3d-8bad-f6de6e5eacb2",
+    "areaId": [1],
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
+    "practiceId": [1],
+    "calendarId": "4854472",
+    "phone": "215-545-1352",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-0f0d3937-8e74-4f3d-8bad-f6de6e5eacb2.png?alt=media&token=392fbb0b-108d-413a-aa79-d0f5d1e1dfda",
+    "isActive": true,
+    "uName": "sandrahumphries",
+    "address": "1528 Walnut Street, #600 Philadelphia, PA 19102",
+    "long": -75.167363,
+    "disclaimerDate": "12/16/2020",
+    "createdAt": "2020-12-16T20:21:19.097Z",
+    "status": [
+      { "name": "Accepting New Clients", "id": 1 },
+      { "id": 2, "name": "Remote Meetings" }
+    ],
+    "countiesServed": "Philadelphia, Montgomery, Delaware",
+    "firmName": "Humphries Family Law",
+    "email": "info@daasly.com",
+    "disclaimerLink": "https://daasly.com/",
+    "name": "Sandra Humphries",
+    "description": [
+      {
+        "name": "Lawyer Profile",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      },
+      {
+        "name": "Additional Information",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      }
+    ]
+  },
+  {
+    "lat": 39.953366,
+    "countiesServed": "Philadelphia, Montgomery, Delaware",
+    "rank": 0,
+    "address": "1300 John F Kennedy Blvd # 1200, Philadelphia, PA 19102",
+    "metadata": [
+      { "value": "Divorce, Family Law", "name": "Practice Area", "id": 1 },
+      { "name": "Year Admitted", "value": "2005", "id": 2 },
+      { "value": "Pennsylvania, New York", "id": 3, "name": "Jurisdication" },
+      { "value": "Active", "id": 4, "name": "Bar Status" },
+      { "name": "Attorney ID", "value": "09123801", "id": 5 },
+      { "id": 6, "value": "None", "name": "Disciplinary Record" },
+      { "name": "Law School", "id": 7, "value": "Villanova University" },
+      {
+        "id": 8,
+        "name": "Undergraduate",
+        "value": "University of Pennsylvania"
+      },
+      {
+        "id": 9,
+        "value": "Professional Liability",
+        "name": "Insurance Coverage"
+      }
+    ],
+    "practiceId": [1],
+    "firmName": "Law Office of Jones & Richter",
+    "disclaimerDate": "12/16/2020",
+    "uName": "osmanijones",
+    "long": -75.162486,
+    "id": "31bd6155-051c-4d32-a7ef-c8ea85cd67e3",
+    "email": "info@daasly.com",
+    "disclaimerLink": "https://daasly.com/",
+    "status": [
+      { "name": "Accepting New Clients", "id": 1 },
+      { "name": "Remote Meetings", "id": 2 }
+    ],
+    "appointmentId": "18628316",
+    "phone": "215-476-3210",
+    "description": [
+      {
+        "name": "Lawyer Profile",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      },
+      {
+        "name": "Additional Information",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      }
+    ],
+    "createdAt": "2020-12-16T20:35:00.832Z",
+    "calendarId": "4854514",
+    "name": "Osmani Jones",
+    "areaId": [1],
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-31bd6155-051c-4d32-a7ef-c8ea85cd67e3.png?alt=media&token=0e979468-88bd-4c24-843e-0e6153e66c41",
+    "isActive": true
+  },
+  {
+    "createdAt": "2020-12-16T20:27:47.301Z",
+    "uName": "jordancruz",
+    "email": "info@daasly.com",
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
+    "countiesServed": "Philadelphia, Delaware",
+    "areaId": [1],
+    "appointmentId": "18628316",
+    "phone": "267-841-1776",
+    "name": "Jordan Cruz",
+    "firmName": "Law Office of Cruz & Cruz",
+    "id": "8fcbfbc3-abe5-409e-a71a-ce6bb7df6c09",
+    "long": -75.162527,
+    "disclaimerLink": "https://daasly.com/",
+    "lat": 39.947081,
+    "isActive": true,
+    "status": [
+      { "id": 1, "name": "Accepting New Clients" },
+      { "name": "Remote Meetings", "id": 2 }
+    ],
+    "metadata": [
+      { "name": "Practice Area", "id": 1, "value": "Divorce, Family Law" },
+      { "name": "Year Admitted", "id": 2, "value": "2005" },
+      { "value": "Pennsylvania, New York", "name": "Jurisdication", "id": 3 },
+      { "id": 4, "name": "Bar Status", "value": "Active" },
+      { "name": "Attorney ID", "id": 5, "value": "09123801" },
+      { "name": "Disciplinary Record", "id": 6, "value": "None" },
+      { "name": "Law School", "id": 7, "value": "Villanova University" },
+      {
+        "value": "University of Pennsylvania",
+        "name": "Undergraduate",
+        "id": 8
+      },
+      {
+        "id": 9,
+        "name": "Insurance Coverage",
+        "value": "Professional Liability"
+      }
+    ],
+    "disclaimerDate": "12/16/2020",
+    "description": [
+      {
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>",
+        "name": "Lawyer Profile"
+      },
+      {
+        "name": "Additional Information",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      }
+    ],
+    "address": "1289 Spruce Street, Philadelphia, PA 10107",
+    "calendarId": "4854488",
+    "practiceId": [1],
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-8fcbfbc3-abe5-409e-a71a-ce6bb7df6c09.png?alt=media&token=2f98b1be-5957-4bdf-96b7-fbf674144fde",
+    "rank": 0
+  },
+  {
+    "practiceId": [1],
+    "name": "Rebecca Miller",
+    "disclaimerDate": "12/16/2020",
+    "createdAt": "2020-12-16T20:40:20.931Z",
+    "rank": 0,
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-0ee578de-ff50-48b9-acd6-0e4debaa0c57.png?alt=media&token=0a486597-e7fd-4857-9760-17410524bfc7",
+    "firmName": "Divorce Lawyer Rebecca Miller",
+    "lat": 39.949161,
+    "countiesServed": "Philadelphia, Montgomery, Delaware",
+    "phone": "215-332-8157",
+    "isActive": true,
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
+    "email": "info@daasly.com",
+    "uName": "rebeccamiller",
+    "areaId": [1],
+    "appointmentId": "18628316",
+    "calendarId": "4854546",
+    "id": "155dcdaa-2079-45c7-85ab-dd2646a99272",
+    "description": [
+      {
+        "name": "Lawyer Profile",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      },
+      {
+        "name": "Additional Information",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      }
+    ],
+    "disclaimerLink": "https://daasly.com/",
+    "metadata": [
+      { "name": "Practice Area", "id": 1, "value": "Divorce, Family Law" },
+      { "value": "2005", "id": 2, "name": "Year Admitted" },
+      { "name": "Jurisdication", "value": "Pennsylvania, New York", "id": 3 },
+      { "id": 4, "name": "Bar Status", "value": "Active" },
+      { "name": "Attorney ID", "id": 5, "value": "09123801" },
+      { "id": 6, "name": "Disciplinary Record", "value": "None" },
+      { "name": "Law School", "id": 7, "value": "Villanova University" },
+      {
+        "value": "University of Pennsylvania",
+        "name": "Undergraduate",
+        "id": 8
+      },
+      {
+        "name": "Insurance Coverage",
+        "value": "Professional Liability",
+        "id": 9
+      }
+    ],
+    "long": -75.163932,
+    "address": "205 S Broad St, Philadelphia, PA 19102",
+    "status": [
+      { "name": "Accepting New Clients", "id": 1 },
+      { "id": 2, "name": "Remote Meetings" }
+    ]
+  },
+  {
+    "areaId": [1],
+    "uName": "brendantucker",
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
+    "appointmentId": "18920752",
+    "name": "Brendan Tucker",
+    "isActive": true,
+    "metadata": [
+      { "id": 1, "name": "Practice Area", "value": "Divorce, Family Law" },
+      { "id": 2, "name": "Year Admitted", "value": "2005" },
+      { "value": "Pennsylvania, New York", "name": "Jurisdication", "id": 3 },
+      { "id": 4, "value": "Active", "name": "Bar Status" },
+      { "name": "Attorney ID", "id": 5, "value": "09123801" },
+      { "id": 6, "name": "Disciplinary Record", "value": "None" },
+      { "id": 7, "value": "Villanova University", "name": "Law School" },
+      {
+        "name": "Undergraduate",
+        "id": 8,
+        "value": "University of Pennsylvania"
+      },
+      {
+        "id": 9,
+        "value": "Professional Liability",
+        "name": "Insurance Coverage"
+      }
+    ],
+    "lat": 40.047735,
+    "calendarId": "4854294",
+    "createdAt": "2020-12-16T19:53:56.489Z",
+    "email": "info@daasly.com",
+    "description": [
+      {
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>",
+        "name": "Lawyer Profile"
+      },
+      {
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>",
+        "name": "Additional Information"
+      }
+    ],
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-b0337008-7224-4f1c-8c32-e96d363cc0cd.png?alt=media&token=fad4c718-7091-4cb4-b36b-0dce18a368fd",
+    "firmName": "Tucker & Warren, LLC",
+    "long": -75.059393,
+    "id": "b0337008-7224-4f1c-8c32-e96d363cc0cd",
+    "address": "2332 Cottman Avenue Philadelphia, PA 19149",
+    "disclaimerLink": "https://daasly.com/",
+    "phone": "800-332-3718",
+    "rank": 0,
+    "countiesServed": "Philadelphia, Montgomery, Delaware",
+    "disclaimerDate": "12/16/2020",
+    "practiceId": [1],
+    "status": [
+      { "name": "Accepting New Clients", "id": 1 },
+      { "id": 2, "name": "Remote Meetings" }
+    ]
+  },
+  {
+    "description": [
+      {
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>",
+        "name": "Lawyer Profile"
+      },
+      {
+        "name": "Additional Information",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      }
+    ],
+    "metadata": [
+      { "id": 1, "name": "Practice Area", "value": "Divorce, Family Law" },
+      { "value": "2005", "name": "Year Admitted", "id": 2 },
+      { "name": "Jurisdication", "id": 3, "value": "Pennsylvania, New York" },
+      { "id": 4, "value": "Active", "name": "Bar Status" },
+      { "id": 5, "value": "09123801", "name": "Attorney ID" },
+      { "value": "None", "id": 6, "name": "Disciplinary Record" },
+      { "value": "Villanova University", "name": "Law School", "id": 7 },
+      {
+        "id": 8,
+        "name": "Undergraduate",
+        "value": "University of Pennsylvania"
+      },
+      {
+        "id": 9,
+        "name": "Insurance Coverage",
+        "value": "Professional Liability"
+      }
+    ],
+    "areaId": [1],
+    "address": "1420 Locust Street, #210 Philadelphia, PA 19102",
+    "createdAt": "2020-12-16T20:15:50.034Z",
+    "name": "Katherine Nguyen",
+    "firmName": "Divorce Lawyer Katherine Nguyen",
+    "disclaimerLink": "https://daasly.com/",
+    "lat": 39.94803,
+    "isActive": true,
+    "id": "14ee25ba-d1ba-496a-93ea-57acb57de1c2",
+    "long": -75.165882,
+    "uName": "katherinenguyen",
+    "calendarId": "4854442",
+    "countiesServed": "Montgomery",
+    "appointmentId": "18920752",
+    "phone": "215-352-7791",
+    "email": "info@daasly.com",
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-14ee25ba-d1ba-496a-93ea-57acb57de1c2.png?alt=media&token=d428df64-028a-463b-be1a-d58c622a848f",
+    "disclaimerDate": "12/16/2020",
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
+    "practiceId": [1],
+    "status": [
+      { "id": 1, "name": "Accepting New Clients" },
+      { "name": "Remote Meetings", "id": 2 }
+    ],
+    "rank": 0
+  },
+  {
+    "disclaimerLink": "https://daasly.com/",
+    "long": -75.169149,
+    "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-0fbadc67-03af-4e32-b0f0-d6b2814842a4.png?alt=media&token=dc54690a-5405-4fdd-9f80-41703883d3c7",
+    "areaId": [1],
+    "isActive": true,
+    "disclaimerDate": "12/16/2020",
+    "calendarId": "4854614",
+    "appointmentId": "18920752",
+    "createdAt": "2020-12-16T20:55:41.661Z",
+    "id": "0fbadc67-03af-4e32-b0f0-d6b2814842a4",
+    "name": "Robert Terrell",
+    "status": [
+      { "id": 1, "name": "Accepting New Clients" },
+      { "name": "Remote Meetings", "id": 2 }
+    ],
+    "address": "1700 Market Street, Ste #1800 Philadelphia, PA 19103",
+    "description": [
+      {
+        "name": "Lawyer Profile",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>"
+      },
+      {
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</p>",
+        "name": "Additional Information"
+      }
+    ],
+    "rank": 0,
+    "countiesServed": "Philadelphia",
+    "phone": "215-433-7859",
+    "practiceId": [1],
+    "firmName": "Terrell Family Law",
+    "email": "info@daasly.com",
+    "metadata": [
+      { "value": "Divorce, Family Law", "name": "Practice Area", "id": 1 },
+      { "id": 2, "value": "2005", "name": "Year Admitted" },
+      { "name": "Jurisdication", "id": 3, "value": "Pennsylvania, New York" },
+      { "id": 4, "name": "Bar Status", "value": "Active" },
+      { "id": 5, "value": "09123801", "name": "Attorney ID" },
+      { "value": "None", "id": 6, "name": "Disciplinary Record" },
+      { "id": 7, "value": "Villanova University", "name": "Law School" },
+      {
+        "id": 8,
+        "value": "University of Pennsylvania",
+        "name": "Undergraduate"
+      },
+      {
+        "name": "Insurance Coverage",
+        "id": 9,
+        "value": "Professional Liability"
+      }
+    ],
+    "lat": 39.953116,
+    "uName": "robertterrell",
+    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu."
+  }
+]
