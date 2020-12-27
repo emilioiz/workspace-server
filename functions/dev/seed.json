@@ -20,11 +20,11 @@
       }
     ],
     "long": -75.160945,
-    "appointmentId": "18628316",
+    "appointmentTypeID": 18628316,
     "email": "info@daasly.com",
     "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-95eb7e59-9789-4681-b558-6e0f59868e8c.png?alt=media&token=1015ac3f-c440-4d2d-b200-dc67177338c1",
     "isActive": true,
-    "calendarId": "4854648",
+    "calendarId": 4854648,
     "disclaimerLink": "https://daasly.com/",
     "countiesServed": "Philadelphia, Montgomery",
     "status": [
@@ -57,12 +57,12 @@
   },
   {
     "email": "info@daasly.com",
-    "appointmentId": "18628316",
+    "appointmentTypeID": 18628316,
     "name": "Timothy Davis",
     "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-df761fd5-a588-4dee-ae6e-6d78be81d98a.png?alt=media&token=a5caf002-1872-4159-9a63-45a169051d94",
     "disclaimerLink": "https://daasly.com/",
     "address": "3098 Ruth St, Philadelphis, PA 19134",
-    "calendarId": "4854413",
+    "calendarId": 4854413,
     "rank": 0,
     "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
     "practiceId": [1],
@@ -125,9 +125,9 @@
       }
     ],
     "long": -75.155008,
-    "appointmentId": "18920752",
+    "appointmentTypeID": 18920752,
     "uName": "andrewparson",
-    "calendarId": "4854632",
+    "calendarId": 4854632,
     "practiceId": [1],
     "status": [
       { "name": "Accepting New Clients", "id": 1 },
@@ -205,8 +205,8 @@
     ],
     "name": "Sebastian Rothenberg",
     "practiceId": [1],
-    "calendarId": "4854373",
-    "appointmentId": "18628316",
+    "calendarId": 4854373,
+    "appointmentTypeID": 18628316,
     "rank": 0,
     "id": "68c5f865-14f1-4bde-abf9-448af71b74a4",
     "description": [
@@ -225,7 +225,7 @@
   },
   {
     "lat": 39.949682,
-    "appointmentId": "18920752",
+    "appointmentTypeID": 18920752,
     "metadata": [
       { "value": "Divorce, Family Law", "id": 1, "name": "Practice Area" },
       { "value": "2005", "id": 2, "name": "Year Admitted" },
@@ -250,7 +250,7 @@
     "areaId": [1],
     "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
     "practiceId": [1],
-    "calendarId": "4854472",
+    "calendarId": 4854472,
     "phone": "215-545-1352",
     "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-0f0d3937-8e74-4f3d-8bad-f6de6e5eacb2.png?alt=media&token=392fbb0b-108d-413a-aa79-d0f5d1e1dfda",
     "isActive": true,
@@ -315,7 +315,7 @@
       { "name": "Accepting New Clients", "id": 1 },
       { "name": "Remote Meetings", "id": 2 }
     ],
-    "appointmentId": "18628316",
+    "appointmentTypeID": 18628316,
     "phone": "215-476-3210",
     "description": [
       {
@@ -328,7 +328,7 @@
       }
     ],
     "createdAt": "2020-12-16T20:35:00.832Z",
-    "calendarId": "4854514",
+    "calendarId": 4854514,
     "name": "Osmani Jones",
     "areaId": [1],
     "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
@@ -342,7 +342,7 @@
     "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
     "countiesServed": "Philadelphia, Delaware",
     "areaId": [1],
-    "appointmentId": "18628316",
+    "appointmentTypeID": 18628316,
     "phone": "267-841-1776",
     "name": "Jordan Cruz",
     "firmName": "Law Office of Cruz & Cruz",
@@ -386,7 +386,7 @@
       }
     ],
     "address": "1289 Spruce Street, Philadelphia, PA 10107",
-    "calendarId": "4854488",
+    "calendarId": 4854488,
     "practiceId": [1],
     "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-8fcbfbc3-abe5-409e-a71a-ce6bb7df6c09.png?alt=media&token=2f98b1be-5957-4bdf-96b7-fbf674144fde",
     "rank": 0
@@ -407,8 +407,8 @@
     "email": "info@daasly.com",
     "uName": "rebeccamiller",
     "areaId": [1],
-    "appointmentId": "18628316",
-    "calendarId": "4854546",
+    "appointmentTypeID": 18628316,
+    "calendarId": 4854546,
     "id": "155dcdaa-2079-45c7-85ab-dd2646a99272",
     "description": [
       {
@@ -451,7 +451,7 @@
     "areaId": [1],
     "uName": "brendantucker",
     "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.",
-    "appointmentId": "18920752",
+    "appointmentTypeID": 18920752,
     "name": "Brendan Tucker",
     "isActive": true,
     "metadata": [
@@ -474,7 +474,7 @@
       }
     ],
     "lat": 40.047735,
-    "calendarId": "4854294",
+    "calendarId": 4854294,
     "createdAt": "2020-12-16T19:53:56.489Z",
     "email": "info@daasly.com",
     "description": [
@@ -544,9 +544,9 @@
     "id": "14ee25ba-d1ba-496a-93ea-57acb57de1c2",
     "long": -75.165882,
     "uName": "katherinenguyen",
-    "calendarId": "4854442",
+    "calendarId": 4854442,
     "countiesServed": "Montgomery",
-    "appointmentId": "18920752",
+    "appointmentTypeID": 18920752,
     "phone": "215-352-7791",
     "email": "info@daasly.com",
     "avatar": "https://firebasestorage.googleapis.com/v0/b/workspace-247959.appspot.com/o/customer-avatars%2Fcustomer-14ee25ba-d1ba-496a-93ea-57acb57de1c2.png?alt=media&token=d428df64-028a-463b-be1a-d58c622a848f",
@@ -566,8 +566,8 @@
     "areaId": [1],
     "isActive": true,
     "disclaimerDate": "12/16/2020",
-    "calendarId": "4854614",
-    "appointmentId": "18920752",
+    "calendarId": 4854614,
+    "appointmentTypeID": 18920752,
     "createdAt": "2020-12-16T20:55:41.661Z",
     "id": "0fbadc67-03af-4e32-b0f0-d6b2814842a4",
     "name": "Robert Terrell",

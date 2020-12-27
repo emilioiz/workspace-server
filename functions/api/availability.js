@@ -1,3 +1,4 @@
+const { db } = require('../util/firebase')
 const axios = require('axios')
 const dayjs = require('dayjs')
 require('dotenv').config()
@@ -30,15 +31,23 @@ exports.getAvailability = async (req, res) => {
       searchQuery: `date=${q1}&appointmentTypeID=${q2}&calendarID=${q3}`
     })
   } else {
-    const lawyers = require('./firestore.json')
-    lawyers.map(r =>
-      reqParams.push({
-        date: q1,
-        appointmentTypeID: r.appointmentTypeID,
-        calendarID: r.calendarID,
-        searchQuery: `date=${q1}&appointmentTypeID=${r.appointmentTypeID}&calendarID=${r.calendarID}`
+    const lawyerRef = db.collection('lawyers').where('isActive', '==', true)
+
+    await lawyerRef
+      .get()
+      .then(r => {
+        r.forEach(doc => {
+          const data = doc.data()
+          reqParams.push({
+            date: q1,
+            appointmentTypeID: data.appointmentTypeID,
+            calendarID: data.calendarId,
+            searchQuery: `date=${q1}&appointmentTypeID=${data.appointmentTypeID}&calendarID=${data.calendarId}`
+          })
+        })
+        return null
       })
-    )
+      .catch(err => console.log(err.code, ' - ', err.message))
   }
 
   const getAvailabilityTimes = p => {
@@ -70,6 +79,7 @@ exports.getAvailability = async (req, res) => {
           description: obj.description
         }
         return resObj
+        // return null
       })
       .catch(err => console.log(err.message))
   }
@@ -110,8 +120,8 @@ exports.getAvailability = async (req, res) => {
         return res
       })
 
-      return collapsedTimes.map(r => {
-        return { calendarID: r.calendarID, ...timesType, ...r }
+      return collapsedTimes.map(x => {
+        return { calendarID: r.calendarID, ...timesType, ...x }
       })
     })
   ).catch(err => console.log(err.message))
