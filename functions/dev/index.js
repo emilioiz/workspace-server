@@ -1,6 +1,7 @@
-const { functions } = require('../util/firebase')
+const { functions, db } = require('../util/firebase')
 
 exports.dev = functions.https.onRequest((req, res) => {
+  //Dev auth token
   const firebase = require('firebase')
 
   const firebaseConfig = {
@@ -23,4 +24,8 @@ exports.dev = functions.https.onRequest((req, res) => {
     .then(data => data.user.getIdToken())
     .then(token => res.json({ token }))
     .catch(err => console.log(err.message))
+
+  //Seed dev db
+  const data = require('./seed.json')
+  data.forEach(r => db.collection('lawyers').add(r))
 })
